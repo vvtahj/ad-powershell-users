@@ -28,6 +28,11 @@ This lab explored how to automate user creation within Active Directory using Po
 ## 🖼️ Screenshots  
 *(Insert screenshots showing the script, PowerShell ISE, execution results, and user entries in ADUC)*
 
+![Screenshot 2025-04-21 112826](https://github.com/user-attachments/assets/73075ee1-cb10-4197-8754-3b71f2ef0980)
+![Screenshot 2025-04-21 112940](https://github.com/user-attachments/assets/2dc71580-4f9b-4823-a36b-fa677ce2822f)
+![Screenshot 2025-04-21 112033](https://github.com/user-attachments/assets/ba187548-ca4b-45f6-a7dd-f6cf99a83025)
+
+
 ## 📘 Lessons Learned
 - PowerShell scripting can greatly streamline repetitive administrative tasks  
 - Automation ensures consistency and efficiency when creating multiple user accounts  
