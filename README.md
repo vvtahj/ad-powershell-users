@@ -26,12 +26,15 @@ This lab explored how to automate user creation within Active Directory using Po
 - Active Directory Users and Computers (ADUC)  
 
 ## 🖼️ Screenshots  
-*(Insert screenshots showing the script, PowerShell ISE, execution results, and user entries in ADUC)*
+Screenshots showing the script, PowerShell ISE, execution results, and user entries in ADUC
 
-![Screenshot 2025-04-21 112826](https://github.com/user-attachments/assets/73075ee1-cb10-4197-8754-3b71f2ef0980)
-![Screenshot 2025-04-21 112940](https://github.com/user-attachments/assets/2dc71580-4f9b-4823-a36b-fa677ce2822f)
-![Screenshot 2025-04-21 112033](https://github.com/user-attachments/assets/ba187548-ca4b-45f6-a7dd-f6cf99a83025)
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/73075ee1-cb10-4197-8754-3b71f2ef0980" width="850"/>
+</p>
+<img src="https://github.com/user-attachments/assets/2dc71580-4f9b-4823-a36b-fa677ce2822f" width="500"/>
+<img src="https://github.com/user-attachments/assets/ba187548-ca4b-45f6-a7dd-f6cf99a83025" width="500"/>
+<img src="https://github.com/user-attachments/assets/11b9d8e6-5314-4afb-99cc-d3ea7f66f2b9" width="500"/>
+<img src="https://github.com/user-attachments/assets/9eeb2290-2a05-4ecf-bc13-0153e54e8610" width="500"/>
 
 ## 📘 Lessons Learned
 - PowerShell scripting can greatly streamline repetitive administrative tasks  
